@@ -25,7 +25,7 @@ from this project template:
 1. Open a terminal window
 2. Execute the compile script (this will take a few minutes):
 ```
-curl https://raw.github.com/fjakobs/cloud9-gae-template/master/compile-gae.sh | bash
+curl https://raw.github.com/blackpatch/c9.io.gae.python/master/compile-gae.sh | bash
 ```
 
 ### Create a new GAE application based on this project template
@@ -36,7 +36,7 @@ test it.
 
 1. Got to your Cloud9 dashboard <https://c9.io/dashboard.html>
 2. Select `create new workspace` -> `clone from url`
-3. Use `git://github.com/fjakobs/cloud9-gae-template.git` as URL
+3. Use `git://github.com/blackpatch/c9.io.gae.python.git` as URL
 4. Open the project
 5. In the project open a new Terminal window
 6. Execute the compile script (this will take a few minutes)
